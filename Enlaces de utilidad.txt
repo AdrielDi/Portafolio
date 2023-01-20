@@ -1,0 +1,10 @@
+https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-image (Listas
+con imagenes para cada valor)
+
+https://stackoverflow.com/questions/1695175/how-to-horizontally-center-an-unordered-list-of-unknown-width
+(Centrar una ul/li)
+
+https://stackoverflow.com/questions/43174348/footer-content-not-showing-in-mobile-view
+(Hacer aparecer el footer en celulares)
+
+
